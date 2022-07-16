@@ -1,0 +1,8 @@
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Curso\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Curso\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
